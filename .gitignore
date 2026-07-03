@@ -1,0 +1,10 @@
+.venv/
+.streamlit/
+.agents/
+__pycache__/
+
+# Ignore large PDF files to avoid GitHub 100MB limit
+*.pdf
+
+# Ignore root PNG images (screenshots etc)
+/*.png
